@@ -1,7 +1,7 @@
 ## Interencdec
 
 Can you get the real meaning from this file.
-Download the file : YidkM0JxZGtwQlRYdHFhR3g2YUhsZmF6TnFlVGwzWVROclgya3lNRFJvYTJvMmZRPT0nCg==
+file : YidkM0JxZGtwQlRYdHFhR3g2YUhsZmF6TnFlVGwzWVROclgya3lNRFJvYTJvMmZRPT0nCg==
 
 
 ### Solve
