@@ -1,21 +1,14 @@
-# 
+## MOD 26
 
-## Challenge Name
-Add challenge description here
+Cryptography can be easy, do you know what ROT13 is?
 
 ### Solve
-**Flag:** `pwn.college{helloworld}`
+**Flag:** `picoCTF{next_time_I'll_try_2_rounds_of_rot13_ulYvpVag}`
 
-type in your solve and your thought process behind solving the challenge. Include as much as info as possible. Use triple ticks for any bash commands and output you type on the terminal.
-
-```bash
-command 1
-command 2
-pwn.college{helloworld}
-```
+As the challenge suggests we need to use ROT13 and solve the given problem. Finally i used ROT13 and got the flag.
 
 ### New Learnings
-Brief note on what you learned from the challenge
+Learnt about ciphers and ROT13.
 
 ### References 
-Add any references or videos you used while solving the challenge.
+None.
