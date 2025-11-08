@@ -1,21 +1,27 @@
-# Module Name
+## Interencdec
 
-## Challenge Name
-Add challenge description here
+Can you get the real meaning from this file.
+Download the file : YidkM0JxZGtwQlRYdHFhR3g2YUhsZmF6TnFlVGwzWVROclgya3lNRFJvYTJvMmZRPT0nCg==
+
 
 ### Solve
-**Flag:** `pwn.college{helloworld}`
+**Flag:** `picoCTF{caesar_d3cr9pt3d_b204adc6}`
 
-type in your solve and your thought process behind solving the challenge. Include as much as info as possible. Use triple ticks for any bash commands and output you type on the terminal.
+As given in the challenge, we need to decrypt the given word. Now as i saw "==" at the end i got the idea that its a BASE64 encoding.
+So, i used BASE64 decoding in cyberchef and got " b'd3BqdkpBTXtqaGx6aHlfazNqeTl3YTNrX2kyMDRoa2o2fQ==' " now again this was a BASE64 
+encoding but onlt the part inside the single quotes. So, after redoing the same proceess i got " wpjvJAM{jhlzhy_k3jy9wa3k_i204hkj6} ".
+Now, i was able to see the structure of the flag and was i able to see that its a ceaser ciper. THerefore, in cyberchef i used ROT13 
+brutefore and got the flag.
 
-```bash
-command 1
-command 2
-pwn.college{helloworld}
+
+```
+ROT13 bruteforce
+Amount = 19: picoCTF{caesar_d3cr9pt3d_b204adc6}
 ```
 
 ### New Learnings
-Brief note on what you learned from the challenge
+Learnt about different types of ciphers and learnt how we can decode and encode data using them. Also learnt more about Cyberchef which 
+is very useful for encrytion and decryption.
 
 ### References 
-Add any references or videos you used while solving the challenge.
+None.
