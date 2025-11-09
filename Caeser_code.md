@@ -12,7 +12,7 @@ int main() {
     int key;
     int i;
 
-    printf("Enter the key (0-25): ");
+    printf("Enter the key: ");
     scanf("%d", &key);
 
     printf("Enter the ciphertext: ");
