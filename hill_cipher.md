@@ -1,6 +1,6 @@
-### Hill cipher 
+## Hill cipher 
 
-##Encryption:
+## Encryption:
 
 This is a example of a substituion cipher. It works in the following way:
 
@@ -36,7 +36,7 @@ therefore sh becomes ap
 
 following the steps given above we get the cipher text as "APADJTFTWLFJ"
 
-##Decryption:
+## Decryption:
 
 Decryption is done by reversing the encryption process. We use the inverse key matrix.
 
