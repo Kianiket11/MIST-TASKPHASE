@@ -1,7 +1,8 @@
 ## Rail Fence cipher
 
 # Encryption 
-#Encryption : This is a example of a Transportaion cipher. It works in the following way: 
+This is a example of a Transportaion cipher. It works in the following way: 
+
 step 1: 
 We select the number of rails or also called depth for the encryption. for example we take the depth as 3 
 
