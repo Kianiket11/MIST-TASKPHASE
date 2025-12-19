@@ -2,9 +2,9 @@
 
 #Encryption :
 This is a example of a substituion cipher. It works in the following way:
-step 1:
+#step 1:
 we select a key matrix square matrix of any order. this matrix is denoted with K.
-step 2:
+#step 2:
 we convert our plain text to the matrix form according to the key matrix and replace the alphabets with numbers (A-0,....,Z-25).
 this matrix is denoted as P.
 step 3:
